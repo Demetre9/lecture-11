@@ -132,7 +132,6 @@ button {
   display: flex;
   align-items: center;
   margin-bottom: 35px;
-=
 }
 .header-three {
   font-size: 42px;
@@ -141,7 +140,20 @@ button {
 .your-company {
   color: #f1a021;
 }
-.three-one{  
-  border-bottom: 1px solid;}
 
-  .d1{flex-direction: column;}
+.number {
+  font-size: 32px;
+  color: #000000;
+  margin-right: 25px;
+}
+
+.user-assistance,
+.scale,
+.warranty,
+.Adaptibility {
+  border-top: solid 5px #f1d3a4;
+}
+
+.results {
+  border-top: solid 1px #000000;
+}
